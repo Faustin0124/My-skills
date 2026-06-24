@@ -24,6 +24,7 @@ Each skill contains:
 | [frontend-design](frontend-design/) | Distinctive, production-grade frontend interfaces and UI styling |
 | [backend-patterns](backend-patterns/) | Backend architecture, API design, and database optimization patterns |
 | [product-designer](product-designer/) | UI/UX execution, user flow strategy, and design system decisions |
+| [tech-debt-manager](tech-debt-manager/) | Tech debt audits, code smell detection, and actionable refactoring backlogs |
 
 ### 🔍 Research
 
