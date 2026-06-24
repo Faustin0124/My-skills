@@ -21,6 +21,9 @@ Each skill contains:
 | [code-reviewer](code-reviewer/) | Thorough code review with security and performance focus |
 | [debugger](debugger/) | Systematic debugging and root cause analysis |
 | [fullstack-developer](fullstack-developer/) | Modern web development (React, Node.js, databases) |
+| [frontend-design](frontend-design/) | Distinctive, production-grade frontend interfaces and UI styling |
+| [backend-patterns](backend-patterns/) | Backend architecture, API design, and database optimization patterns |
+| [product-designer](product-designer/) | UI/UX execution, user flow strategy, and design system decisions |
 
 ### 🔍 Research
 
@@ -52,6 +55,13 @@ Each skill contains:
 |-------|-------------|
 | [data-analyst](data-analyst/) | SQL, pandas, and statistical analysis |
 | [visualization-expert](visualization-expert/) | Chart selection and data visualization |
+| [data-scientist](data-scientist/) | Advanced analytics, machine learning, and statistical modeling |
+
+### 📈 Marketing
+
+| Skill | Description |
+|-------|-------------|
+| [seo-expert](seo-expert/) | Local SEO and competitive analysis: technical audits, keyword research, Google Business Profile content |
 
 ### ⚡ Productivity
 
